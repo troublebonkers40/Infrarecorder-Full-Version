@@ -240,4 +240,4 @@ This repository serves as the official landing page for InfraRecorder. The softw
 **Get the most recent version of InfraRecorder today!**
 
 ---
-**Last updated:** 2026-10-13 15:47:02 UTC
+**Last updated:** 2026-10-13 21:06:36 UTC
